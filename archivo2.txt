@@ -1,1 +1,3 @@
-Nuevo archivo
+Nuevo archivo 
+cambios archivo 2
+ignorar archivo2
